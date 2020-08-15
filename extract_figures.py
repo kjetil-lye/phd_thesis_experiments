@@ -21,10 +21,10 @@ def display_image(source, original_source):
     
     exif_tags = get_exif_tags(source)
     
-    markdown_text =f"*original path*: [{original_source}]({original_source})\n"
+    markdown_text =f"*original path*: [{original_source}]({original_source})\n\n"
     try:
-        markdown_text += f"*git_commit*: ```{exif_tags['git_commit']}```\n"
-        markdown_text += f"*git_repo*: ```{exif_tags['git_remote_url']}```\n"
+        markdown_text += f"*git_commit*: ```{exif_tags['git_commit']}```\n\n"
+        markdown_text += f"*git_repo*: ```{exif_tags['git_remote_url']}```\n\n"
     except:
         pass
     if 'commandrun' in exif_tags:
