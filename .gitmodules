@@ -1,0 +1,30 @@
+[submodule "examples_2d/statistical_systems_paper_experiments"]
+	path = examples_2d/statistical_systems_paper_experiments
+	url = git@github.com:kjetil-lye/statistical_systems_paper_experiments.git
+[submodule "examples_3d/3druns"]
+	path = examples_3d/3druns
+	url = git@github.com:kjetil-lye/3druns.git
+[submodule "examples_1d/scalar_statistical_paper_experiments"]
+	path = examples_1d/scalar_statistical_paper_experiments
+	url = git@github.com:kjetil-lye/scalar_statistical_paper_experiments.git
+[submodule "alternatives/mlmc_statistical_solutions_experiments"]
+	path = alternatives/mlmc_statistical_solutions_experiments
+	url = git@github.com:kjetil-lye/mlmc_statistical_solutions_experiments.git
+[submodule "implementation/alsvinn_scalings"]
+	path = implementation/alsvinn_scalings
+	url = git@github.com:kjetil-lye/alsvinn_scalings.git
+[submodule "implementation/alsvinn_metrics"]
+	path = implementation/alsvinn_metrics
+	url = git@github.com:kjetil-lye/alsvinn_metrics.git
+[submodule "alternatives/qmc_experiments"]
+	path = alternatives/qmc_experiments
+	url = git@github.com:kjetil-lye/qmc_experiments.git
+[submodule "appendix/phd_thesis_standalone_plots"]
+	path = appendix/phd_thesis_standalone_plots
+	url = git@github.com:kjetil-lye/phd_thesis_standalone_plots.git
+[submodule "examples_2d/single_sample_structure_functions"]
+	path = examples_2d/single_sample_structure_functions
+	url = git@github.com:kjetil-lye/single_sample_structure_functions.git
+[submodule "examples_1d/unbounded_tv_experiments"]
+	path = examples_1d/unbounded_tv_experiments
+	url = git@github.com:kjetil-lye/unbounded_tv_experiments.git
