@@ -649,38 +649,6 @@ Run in a notebook
 ## Figure 4.16
 
 ### Subfigure 4.16.A
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_richtmeyermeshkov_40.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_richtmeyermeshkov_40.png)
-
-*git_commit*: ```83fb7f26e96030302f507c944b2f47dff92f4fe2```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//rm/p0_06/N{resolution}/rm_functional_identity_1.nc --title Richtmeyer-Meshkov  --statistic_name single_sample --reference
-```
-
-![](images/chapter_4/convergence_reference_single_sample_richtmeyermeshkov_40.png?raw=true)
-
-### Subfigure 4.16.B
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_richtmeyermeshkov_40.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_richtmeyermeshkov_40.png)
-
-*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//rm/p0_06/N{resolution}/rm_functional_identity_1.nc --title Richtmeyer-Meshkov  --reference
-```
-
-![](images/chapter_4/convergence_reference_expected_error_richtmeyermeshkov_40.png?raw=true)
-
-## Figure 4.17
-
-### Subfigure 4.17.A
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n128.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n128.png)
 
 *git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
@@ -695,7 +663,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_richtmeyermeshkov_40_n128.png?raw=true)
 
-### Subfigure 4.17.B
+### Subfigure 4.16.B
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n256.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n256.png)
 
 *git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
@@ -710,7 +678,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_richtmeyermeshkov_40_n256.png?raw=true)
 
-### Subfigure 4.17.C
+### Subfigure 4.16.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n512.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n512.png)
 
 *git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
@@ -725,7 +693,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_richtmeyermeshkov_40_n512.png?raw=true)
 
-### Subfigure 4.17.D
+### Subfigure 4.16.D
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n1024.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_richtmeyermeshkov_40_n1024.png)
 
 *git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
@@ -740,7 +708,39 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_richtmeyermeshkov_40_n1024.png?raw=true)
 
-### Subfigure 4.17.E
+## Figure 4.17
+
+### Subfigure 4.17.A
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_richtmeyermeshkov_40.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_richtmeyermeshkov_40.png)
+
+*git_commit*: ```83fb7f26e96030302f507c944b2f47dff92f4fe2```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//rm/p0_06/N{resolution}/rm_functional_identity_1.nc --title Richtmeyer-Meshkov  --statistic_name single_sample --reference
+```
+
+![](images/chapter_4/convergence_reference_single_sample_richtmeyermeshkov_40.png?raw=true)
+
+### Subfigure 4.17.B
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_richtmeyermeshkov_40.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_richtmeyermeshkov_40.png)
+
+*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//rm/p0_06/N{resolution}/rm_functional_identity_1.nc --title Richtmeyer-Meshkov  --reference
+```
+
+![](images/chapter_4/convergence_reference_expected_error_richtmeyermeshkov_40.png?raw=true)
+
+### Subfigure 4.17.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/rm_0_06_tascaling_mean_var_richtmeyermeshkov_epsilon006_time_averaged_2_006_0.png](examples_2d/single_sample_structure_functions/notebooks/img/rm_0_06_tascaling_mean_var_richtmeyermeshkov_epsilon006_time_averaged_2_006_0.png)
 
 *git_commit*: ```f37a624deae1184a10db4078b507939dd4349b30```
@@ -1105,38 +1105,6 @@ Run in a notebook
 ## Figure 4.24
 
 ### Subfigure 4.24.A
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02.png)
-
-*git_commit*: ```c4122bae4e63dc18c38a3c901a2cb502ae97f3c7```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/scratch/klye/single_sample_structure_functions_fulltime/.venv/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//fbb_short_time/H0_5/N{resolution}/euler_fbb_functional_identity_1.nc --title Fractional Brownian bridge $H=0.5$ short time  --statistic_name single_sample --reference
-```
-
-![](images/chapter_4/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02.png?raw=true)
-
-### Subfigure 4.24.B
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02.png)
-
-*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//fbb_short_time/H0_5/N{resolution}/euler_fbb_functional_identity_1.nc --title Fractional Brownian bridge $H=0.5$ short time  --reference
-```
-
-![](images/chapter_4/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02.png?raw=true)
-
-## Figure 4.25
-
-### Subfigure 4.25.A
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n128.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n128.png)
 
 *git_commit*: ```4d235e4a7a68bd0dc9f4272669194094b9a9c25f```
@@ -1151,7 +1119,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n128.png?raw=true)
 
-### Subfigure 4.25.B
+### Subfigure 4.24.B
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n256.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n256.png)
 
 *git_commit*: ```4d235e4a7a68bd0dc9f4272669194094b9a9c25f```
@@ -1166,7 +1134,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n256.png?raw=true)
 
-### Subfigure 4.25.C
+### Subfigure 4.24.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n512.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n512.png)
 
 *git_commit*: ```4d235e4a7a68bd0dc9f4272669194094b9a9c25f```
@@ -1181,7 +1149,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n512.png?raw=true)
 
-### Subfigure 4.25.D
+### Subfigure 4.24.D
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n1024.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n1024.png)
 
 *git_commit*: ```4d235e4a7a68bd0dc9f4272669194094b9a9c25f```
@@ -1196,7 +1164,39 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n1024.png?raw=true)
 
-### Subfigure 4.25.E
+## Figure 4.25
+
+### Subfigure 4.25.A
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02.png)
+
+*git_commit*: ```c4122bae4e63dc18c38a3c901a2cb502ae97f3c7```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/scratch/klye/single_sample_structure_functions_fulltime/.venv/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//fbb_short_time/H0_5/N{resolution}/euler_fbb_functional_identity_1.nc --title Fractional Brownian bridge $H=0.5$ short time  --statistic_name single_sample --reference
+```
+
+![](images/chapter_4/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02.png?raw=true)
+
+### Subfigure 4.25.B
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02.png)
+
+*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//fbb_short_time/H0_5/N{resolution}/euler_fbb_functional_identity_1.nc --title Fractional Brownian bridge $H=0.5$ short time  --reference
+```
+
+![](images/chapter_4/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02.png?raw=true)
+
+### Subfigure 4.25.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/fbb_0_5_ta_stscaling_mean_var_fractional_brownian_bridge_h05_time_averaged_2_01_0.png](examples_2d/single_sample_structure_functions/notebooks/img/fbb_0_5_ta_stscaling_mean_var_fractional_brownian_bridge_h05_time_averaged_2_01_0.png)
 
 *git_commit*: ```f37a624deae1184a10db4078b507939dd4349b30```
@@ -1571,38 +1571,6 @@ Run in a notebook
 ## Figure 4.32
 
 ### Subfigure 4.32.A
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_cloudshock_006.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_cloudshock_006.png)
-
-*git_commit*: ```228e4226007c563e0c3942dc76581ecfc5dca892```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/opt/python/3.6.5.7/bin/python ../python/compute_convergence.py --input_basename /scratch/snx3000/klye/single_sample_structure_functions/experiments_full_time_average//cloudshock/p0_06/N{resolution}/cloudshock_functional_identity_1.nc --title Cloudshock  --statistic_name single_sample --reference --log
-```
-
-![](images/chapter_4/convergence_reference_single_sample_cloudshock_006.png?raw=true)
-
-### Subfigure 4.32.B
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_cloudshock_006.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_cloudshock_006.png)
-
-*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//cloudshock/p0_06/N{resolution}/cloudshock_functional_identity_1.nc --title Cloudshock  --reference
-```
-
-![](images/chapter_4/convergence_reference_expected_error_cloudshock_006.png?raw=true)
-
-## Figure 4.33
-
-### Subfigure 4.33.A
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n128_log.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n128_log.png)
 
 *git_commit*: ```228e4226007c563e0c3942dc76581ecfc5dca892```
@@ -1617,7 +1585,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_cloudshock_006_n128_log.png?raw=true)
 
-### Subfigure 4.33.B
+### Subfigure 4.32.B
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n256_log.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n256_log.png)
 
 *git_commit*: ```228e4226007c563e0c3942dc76581ecfc5dca892```
@@ -1632,7 +1600,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_cloudshock_006_n256_log.png?raw=true)
 
-### Subfigure 4.33.C
+### Subfigure 4.32.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n512_log.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n512_log.png)
 
 *git_commit*: ```228e4226007c563e0c3942dc76581ecfc5dca892```
@@ -1647,7 +1615,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_cloudshock_006_n512_log.png?raw=true)
 
-### Subfigure 4.33.D
+### Subfigure 4.32.D
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n1024_log.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_cloudshock_006_n1024_log.png)
 
 *git_commit*: ```228e4226007c563e0c3942dc76581ecfc5dca892```
@@ -1662,7 +1630,39 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_cloudshock_006_n1024_log.png?raw=true)
 
-### Subfigure 4.33.E
+## Figure 4.33
+
+### Subfigure 4.33.A
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_cloudshock_006.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_cloudshock_006.png)
+
+*git_commit*: ```228e4226007c563e0c3942dc76581ecfc5dca892```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/opt/python/3.6.5.7/bin/python ../python/compute_convergence.py --input_basename /scratch/snx3000/klye/single_sample_structure_functions/experiments_full_time_average//cloudshock/p0_06/N{resolution}/cloudshock_functional_identity_1.nc --title Cloudshock  --statistic_name single_sample --reference --log
+```
+
+![](images/chapter_4/convergence_reference_single_sample_cloudshock_006.png?raw=true)
+
+### Subfigure 4.33.B
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_cloudshock_006.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_cloudshock_006.png)
+
+*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//cloudshock/p0_06/N{resolution}/cloudshock_functional_identity_1.nc --title Cloudshock  --reference
+```
+
+![](images/chapter_4/convergence_reference_expected_error_cloudshock_006.png?raw=true)
+
+### Subfigure 4.33.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/cloudshock_0_06_tascaling_mean_var_cloudshock_epsilon006_time_averaged_2_006_0.png](examples_2d/single_sample_structure_functions/notebooks/img/cloudshock_0_06_tascaling_mean_var_cloudshock_epsilon006_time_averaged_2_006_0.png)
 
 *git_commit*: ```f37a624deae1184a10db4078b507939dd4349b30```
@@ -2059,38 +2059,6 @@ Run in a notebook
 ## Figure 4.41
 
 ### Subfigure 4.41.A
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_shockvortex_035.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_shockvortex_035.png)
-
-*git_commit*: ```942074d32ef6e282b459d5535547c72d76f8494a```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//shockvortex/p0_06/N{resolution}/shockvortex_functional_identity_1.nc --title Shockvortex  --statistic_name single_sample --reference
-```
-
-![](images/chapter_4/convergence_reference_single_sample_shockvortex_035.png?raw=true)
-
-### Subfigure 4.41.B
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_shockvortex_035.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_shockvortex_035.png)
-
-*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//shockvortex/p0_06/N{resolution}/shockvortex_functional_identity_1.nc --title Shockvortex  --reference
-```
-
-![](images/chapter_4/convergence_reference_expected_error_shockvortex_035.png?raw=true)
-
-## Figure 4.42
-
-### Subfigure 4.42.A
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n128.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n128.png)
 
 *git_commit*: ```a8336c282cb27a8eb3655d84fc795ccb1fd81b48```
@@ -2105,7 +2073,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_shockvortex_035_n128.png?raw=true)
 
-### Subfigure 4.42.B
+### Subfigure 4.41.B
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n256.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n256.png)
 
 *git_commit*: ```a8336c282cb27a8eb3655d84fc795ccb1fd81b48```
@@ -2120,7 +2088,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_shockvortex_035_n256.png?raw=true)
 
-### Subfigure 4.42.C
+### Subfigure 4.41.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n512.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n512.png)
 
 *git_commit*: ```a8336c282cb27a8eb3655d84fc795ccb1fd81b48```
@@ -2135,7 +2103,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_shockvortex_035_n512.png?raw=true)
 
-### Subfigure 4.42.D
+### Subfigure 4.41.D
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n1024.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_shockvortex_035_n1024.png)
 
 *git_commit*: ```a8336c282cb27a8eb3655d84fc795ccb1fd81b48```
@@ -2150,7 +2118,39 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_shockvortex_035_n1024.png?raw=true)
 
-### Subfigure 4.42.E
+## Figure 4.42
+
+### Subfigure 4.42.A
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_shockvortex_035.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_shockvortex_035.png)
+
+*git_commit*: ```942074d32ef6e282b459d5535547c72d76f8494a```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//shockvortex/p0_06/N{resolution}/shockvortex_functional_identity_1.nc --title Shockvortex  --statistic_name single_sample --reference
+```
+
+![](images/chapter_4/convergence_reference_single_sample_shockvortex_035.png?raw=true)
+
+### Subfigure 4.42.B
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_shockvortex_035.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_shockvortex_035.png)
+
+*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//shockvortex/p0_06/N{resolution}/shockvortex_functional_identity_1.nc --title Shockvortex  --reference
+```
+
+![](images/chapter_4/convergence_reference_expected_error_shockvortex_035.png?raw=true)
+
+### Subfigure 4.42.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/shockvortex_0_06_tascaling_mean_var_shockvortex_epsilon006_time_averaged_2_006_0.png](examples_2d/single_sample_structure_functions/notebooks/img/shockvortex_0_06_tascaling_mean_var_shockvortex_epsilon006_time_averaged_2_006_0.png)
 
 *git_commit*: ```f37a624deae1184a10db4078b507939dd4349b30```
@@ -3150,38 +3150,6 @@ Run in a notebook
 ## Figure 4.7
 
 ### Subfigure 4.7.A
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_kelvinhelmholtz_20.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_kelvinhelmholtz_20.png)
-
-*git_commit*: ```942074d32ef6e282b459d5535547c72d76f8494a```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//kh/p0_06/N{resolution}/kh_functional_identity_1.nc --title Kelvin-Helmholtz  --statistic_name single_sample --reference
-```
-
-![](images/chapter_4/convergence_reference_single_sample_kelvinhelmholtz_20.png?raw=true)
-
-### Subfigure 4.7.B
-*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_kelvinhelmholtz_20.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_kelvinhelmholtz_20.png)
-
-*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
-
-*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
-
-*command run*:
-
-```bash
-/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//kh/p0_06/N{resolution}/kh_functional_identity_1.nc --title Kelvin-Helmholtz  --reference
-```
-
-![](images/chapter_4/convergence_reference_expected_error_kelvinhelmholtz_20.png?raw=true)
-
-## Figure 4.8
-
-### Subfigure 4.8.A
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n128.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n128.png)
 
 *git_commit*: ```ce95ff39cf6dde6f9fdc8d9650d3841979330be9```
@@ -3196,7 +3164,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_kelvinhelmholtz_20_n128.png?raw=true)
 
-### Subfigure 4.8.B
+### Subfigure 4.7.B
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n256.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n256.png)
 
 *git_commit*: ```ce95ff39cf6dde6f9fdc8d9650d3841979330be9```
@@ -3211,7 +3179,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_kelvinhelmholtz_20_n256.png?raw=true)
 
-### Subfigure 4.8.C
+### Subfigure 4.7.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n512.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n512.png)
 
 *git_commit*: ```ce95ff39cf6dde6f9fdc8d9650d3841979330be9```
@@ -3226,7 +3194,7 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_kelvinhelmholtz_20_n512.png?raw=true)
 
-### Subfigure 4.8.D
+### Subfigure 4.7.D
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n1024.png](examples_2d/single_sample_structure_functions/notebooks/img/field_plot_single_sample_rho_kelvinhelmholtz_20_n1024.png)
 
 *git_commit*: ```ce95ff39cf6dde6f9fdc8d9650d3841979330be9```
@@ -3241,7 +3209,39 @@ Run in a notebook
 
 ![](images/chapter_4/field_plot_single_sample_rho_kelvinhelmholtz_20_n1024.png?raw=true)
 
-### Subfigure 4.8.E
+## Figure 4.8
+
+### Subfigure 4.8.A
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_kelvinhelmholtz_20.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_single_sample_kelvinhelmholtz_20.png)
+
+*git_commit*: ```942074d32ef6e282b459d5535547c72d76f8494a```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_convergence.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//kh/p0_06/N{resolution}/kh_functional_identity_1.nc --title Kelvin-Helmholtz  --statistic_name single_sample --reference
+```
+
+![](images/chapter_4/convergence_reference_single_sample_kelvinhelmholtz_20.png?raw=true)
+
+### Subfigure 4.8.B
+*original path*: [examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_kelvinhelmholtz_20.png](examples_2d/single_sample_structure_functions/notebooks/img/convergence_reference_expected_error_kelvinhelmholtz_20.png)
+
+*git_commit*: ```a738dc32643a90f78ce63eee490d71f310d8c83c```
+
+*git_repo*: ```git@github.com:kjetil-lye/single_sample_structure_functions.git```
+
+*command run*:
+
+```bash
+/cluster/apps/python/3.6.4_cpu/bin/python ../python/compute_expected_error.py --input_basename /cluster/work/math/klye/single_sample_structure_functions/experiments_full_time_average//kh/p0_06/N{resolution}/kh_functional_identity_1.nc --title Kelvin-Helmholtz  --reference
+```
+
+![](images/chapter_4/convergence_reference_expected_error_kelvinhelmholtz_20.png?raw=true)
+
+### Subfigure 4.8.C
 *original path*: [examples_2d/single_sample_structure_functions/notebooks/img/kh_0_06_tascaling_mean_var_kelvinhelmholtz_epsilon006_time_averaged_2_006_0.png](examples_2d/single_sample_structure_functions/notebooks/img/kh_0_06_tascaling_mean_var_kelvinhelmholtz_epsilon006_time_averaged_2_006_0.png)
 
 *git_commit*: ```f37a624deae1184a10db4078b507939dd4349b30```

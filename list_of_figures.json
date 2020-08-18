@@ -126,27 +126,27 @@
         ],
         [
             "{4.7}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_kelvinhelmholtz_20_notitle"
-        ],
-        [
-            "{4.7}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_kelvinhelmholtz_20_notitle"
-        ],
-        [
-            "{4.8}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_kelvinhelmholtz_20_n128_notitle"
         ],
         [
-            "{4.8}.{}",
+            "{4.7}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_kelvinhelmholtz_20_n256_notitle"
         ],
         [
-            "{4.8}.{}",
+            "{4.7}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_kelvinhelmholtz_20_n512_notitle"
         ],
         [
-            "{4.8}.{}",
+            "{4.7}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_kelvinhelmholtz_20_n1024_notitle"
+        ],
+        [
+            "{4.8}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_kelvinhelmholtz_20_notitle"
+        ],
+        [
+            "{4.8}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_kelvinhelmholtz_20_notitle"
         ],
         [
             "{4.8}.{}",
@@ -250,27 +250,27 @@
         ],
         [
             "{4.16}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_richtmeyermeshkov_40_notitle"
-        ],
-        [
-            "{4.16}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_richtmeyermeshkov_40_notitle"
-        ],
-        [
-            "{4.17}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_richtmeyermeshkov_40_n128_notitle"
         ],
         [
-            "{4.17}.{}",
+            "{4.16}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_richtmeyermeshkov_40_n256_notitle"
         ],
         [
-            "{4.17}.{}",
+            "{4.16}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_richtmeyermeshkov_40_n512_notitle"
         ],
         [
-            "{4.17}.{}",
+            "{4.16}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_richtmeyermeshkov_40_n1024_notitle"
+        ],
+        [
+            "{4.17}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_richtmeyermeshkov_40_notitle"
+        ],
+        [
+            "{4.17}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_richtmeyermeshkov_40_notitle"
         ],
         [
             "{4.17}.{}",
@@ -366,27 +366,27 @@
         ],
         [
             "{4.24}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02_notitle"
-        ],
-        [
-            "{4.24}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02_notitle"
-        ],
-        [
-            "{4.25}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n128_notitle"
         ],
         [
-            "{4.25}.{}",
+            "{4.24}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n256_notitle"
         ],
         [
-            "{4.25}.{}",
+            "{4.24}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n512_notitle"
         ],
         [
-            "{4.25}.{}",
+            "{4.24}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_fractionalbrownianbridgeh05shorttime_02_n1024_notitle"
+        ],
+        [
+            "{4.25}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_fractionalbrownianbridgeh05shorttime_02_notitle"
+        ],
+        [
+            "{4.25}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_fractionalbrownianbridgeh05shorttime_02_notitle"
         ],
         [
             "{4.25}.{}",
@@ -486,27 +486,27 @@
         ],
         [
             "{4.32}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_cloudshock_006_notitle"
-        ],
-        [
-            "{4.32}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_cloudshock_006_notitle"
-        ],
-        [
-            "{4.33}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_cloudshock_006_n128_log_notitle"
         ],
         [
-            "{4.33}.{}",
+            "{4.32}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_cloudshock_006_n256_log_notitle"
         ],
         [
-            "{4.33}.{}",
+            "{4.32}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_cloudshock_006_n512_log_notitle"
         ],
         [
-            "{4.33}.{}",
+            "{4.32}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_cloudshock_006_n1024_log_notitle"
+        ],
+        [
+            "{4.33}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_cloudshock_006_notitle"
+        ],
+        [
+            "{4.33}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_cloudshock_006_notitle"
         ],
         [
             "{4.33}.{}",
@@ -610,27 +610,27 @@
         ],
         [
             "{4.41}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_shockvortex_035_notitle"
-        ],
-        [
-            "{4.41}.{}",
-            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_shockvortex_035_notitle"
-        ],
-        [
-            "{4.42}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_shockvortex_035_n128_notitle"
         ],
         [
-            "{4.42}.{}",
+            "{4.41}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_shockvortex_035_n256_notitle"
         ],
         [
-            "{4.42}.{}",
+            "{4.41}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_shockvortex_035_n512_notitle"
         ],
         [
-            "{4.42}.{}",
+            "{4.41}.{}",
             "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/field_plot_single_sample_rho_shockvortex_035_n1024_notitle"
+        ],
+        [
+            "{4.42}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_single_sample_shockvortex_035_notitle"
+        ],
+        [
+            "{4.42}.{}",
+            "examples_2d/single_sample_structure_functions/notebooks/img_downscaled/convergence_reference_expected_error_shockvortex_035_notitle"
         ],
         [
             "{4.42}.{}",
